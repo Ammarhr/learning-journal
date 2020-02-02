@@ -18,4 +18,4 @@ Markdown is a lightweight markup language with plain text formatting syntax. Its
 5. easy to write and edite because it is very similar to normal word text.
 
 
- ![my github account](https://github.com/Ammarhr)
+[my github account](https://github.com/Ammarhr)
