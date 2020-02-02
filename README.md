@@ -13,6 +13,6 @@ Markdown is a lightweight markup language with plain text formatting syntax. Its
 **there are many feautres of Markdown:**
 1. stayle the text in the web page without using HTML or Css.
 2. easy to use, that is needs just to add a spacefic signs such as * , # , _ etc..
-3. add an image easly with syntax ![image name](URL)
+3. add an image easly with syntax ![image name]()
 4. make orderd and unorderd lists. 
 5. easy to write and edite because it is very similar to normal word text.
