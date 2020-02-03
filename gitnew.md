@@ -1,5 +1,5 @@
 # Git Tutorial
-![Git Image]()
+![Git Image](https://www.stanleyulili.com/assets/images/posts/2019-08-13-install-git-bash/featured-image.jpg)
 
 # What is Git?
 __Git__ is a distributed version-control system for tracking changes in source code during software development.
