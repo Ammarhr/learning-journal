@@ -14,7 +14,7 @@ Its goals include speed, data integrity, and support for distributed, non-linear
     - __committed__: to avoid loss of data, the data is stored is a local database.
     - __modified__: the changes that have done but not committed in the local database.
     - __staged__: marked a file’s changed version to be committed in the next snapshot.
-    
+    ![get image 2](https://codereviewvideos.com/blog/wp-content/uploads/2015/06/git-goodness.gif)
 ## Version Control:
  **Version Control** is a system that allows the devlopers to back to any version of file or more.
  this can be done with the recording changes.
