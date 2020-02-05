@@ -20,4 +20,7 @@ Its goals include speed, data integrity, and support for distributed, non-linear
  this can be done with the recording changes.
  **Version Control** is helpfull to fix the mistakes in the previous versions, and compare the changes.
  
- 
+ ### my learning-jornal links:
+  . [my links](https://github.com/Ammarhr/learning-journal/blob/master/learning-journal.md)
+  . [my links](https://github.com/Ammarhr/learning-journal/blob/master/README.md)
+  . [my links](https://github.com/Ammarhr/learning-journal/blob/master/gitnew.md)
